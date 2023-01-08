@@ -6,4 +6,5 @@ using UnityEngine.UI;
 public class LottoRow : MonoBehaviour
 {
     public Text[] Numbers;
+    public Image[] Images;
 }
